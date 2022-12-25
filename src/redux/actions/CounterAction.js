@@ -1,0 +1,5 @@
+export const COUNTER_ACTION = {
+    INCREMENT: 'INCREMENT',
+    DECREMENT: 'DECREMENT',
+    RESET: 'RESET'
+}
